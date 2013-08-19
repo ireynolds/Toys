@@ -1,5 +1,16 @@
 # Toys
 
+These are snippets of code that I've written. Some are complete, but others are modules of a larger project. Most came from school (hence the number of different languages and types of problems). 
+
+Feel free to peruse! Here are some highlights:
+
+* Great testing and programming by contract: Graph.java.
+* Well-optimized, readable code with great long-form documentation: SubsetIter.java.
+* Interesting, ready-to-run one-offs with great potential for decomposition and optimization: Euler Problems.
+* Careful thought and deep understanding of database implementations: Join.java, LogFile.java, and (particularly) LockManager.java.
+
+You may not get much out of these, but each one taught me a little something (except perhaps BitPuzzles--those are up because of the blood, sweat, and tears I poured into them--and the Euler Problems--those are up because they were fun and interesting!). 
+
 #### Join.java
 
 Implements a inner join operator on a relational DBMS. Defaults to page nested loop join, but uses hash equijoin when possible. Does not consider indices or hash joins on involving tables that do not fit in memory.
