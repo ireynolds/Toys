@@ -7,7 +7,7 @@ Feel free to peruse! Here are some highlights:
 * Great **testing** and programming by contract: _Graph.java_.
 * Well-optimized, readable code with great **long-form documentation**: _SubsetIter.java_.
 * **Interesting, ready-to-run one-offs** with great potential for decomposition and optimization: _Euler Problems_.
-* Careful thought and deep understanding of **databases and their implementations**: _LockManager.java_ and _Queries.sql_ (and also _Join.java_ _LogFile.java_).
+* Careful thought and deep understanding of **databases and their implementations**: _LockManager.java_ and _Queries.sql_ (and also _Join.java_ and _LogFile.java_).
 
 You may not get much out of these, but each one taught me a little something (except perhaps BitPuzzles--those are up because of the blood, sweat, and tears I poured into them--and the Euler Problems--those are up because they were fun and interesting!). 
 
